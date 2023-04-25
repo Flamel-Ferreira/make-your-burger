@@ -4,29 +4,29 @@
       {
         "id": 1,
         "tipo": "Italiano Branco",
-        "preco": 1.0
+        "preco": 1
       },
       {
         "id": 2,
         "tipo": "3 Queijos",
-        "preco": 1.0
+        "preco": 1
       },
       {
         "id": 3,
         "tipo": "Parmesão e Orégano",
-        "preco": 1.0
+        "preco": 1
       },
       {
         "id": 4,
         "tipo": "Integral",
-        "preco": 1.0
+        "preco": 1
       }
     ],
     "carnes": [
       {
         "id": 1,
         "tipo": "Maminha",
-        "preco": 3.0
+        "preco": 3
       },
       {
         "id": 2,
@@ -36,7 +36,7 @@
       {
         "id": 3,
         "tipo": "Picanha",
-        "preco": 4.0
+        "preco": 4
       },
       {
         "id": 4,
@@ -53,13 +53,12 @@
       {
         "id": 2,
         "tipo": "Cheddar",
-        "preco": 2.0
+        "preco": 2
       },
       {
         "id": 3,
         "tipo": "Salame",
-        "preco": 2.0
-
+        "preco": 2
       },
       {
         "id": 4,
@@ -94,15 +93,14 @@
   ],
   "burgers": [
     {
-      "nome": "Maria",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
+      "nome": null,
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Cebola roxa"
+        "Bacon"
       ],
-      "status": "Em produção",
+      "preco": 1,
+      "status": "Solicitado",
       "id": 1
     }
   ]
